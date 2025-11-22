@@ -45,6 +45,6 @@
 <a href="mailto:roman@globalart.dev">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://t.me/rozmarin_us">
+<a href="https://t.me/rozmarin_us" _target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
