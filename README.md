@@ -3,6 +3,7 @@
 <p align="center">
   <em>"Code, coffee, and continuous learning."</em>
 </p>
+
 ---
 ## 🚀 About Me  
 - **Tech Lead** & **Senior Software Developer**  
