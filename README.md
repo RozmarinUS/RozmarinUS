@@ -40,6 +40,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1624?style=for-the-badge&logo=helm&logoColor=white)
+![etcd](https://img.shields.io/badge/etcd-519ABA?style=for-the-badge&logo=etcd&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 📊 Monitoring
